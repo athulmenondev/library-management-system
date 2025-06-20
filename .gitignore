@@ -28,7 +28,7 @@ dist-ssr
 #Backend
 
 backend/node_modules/
-#backend/.env
+backend/.env
 
 # Log files
 backend/npm-debug.log*
